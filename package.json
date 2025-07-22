@@ -8,7 +8,8 @@
     "build": "npm run build -w apps/frontend && npm run build -w apps/backend",
     "lint": "npm run lint -w apps/frontend && npm run lint -w apps/backend",
     "deploy:frontend": "cd apps/frontend && npm run build",
-    "deploy:backend": "cd apps/backend && npm run deploy"
+    "deploy:backend": "cd apps/backend && npm run deploy",
+    "start": "npm start -w apps/backend"
   },
   "keywords": [],
   "author": "",
