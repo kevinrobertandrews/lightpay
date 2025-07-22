@@ -1,5 +1,7 @@
 {
-    "outDir": "dist",
-    "rootDir": "src",
-    "module": "commonjs"
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src",
+        "module": "commonjs"
+    },
 }
