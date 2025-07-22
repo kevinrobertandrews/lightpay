@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsx src/index.ts",
-    "debug": "node --inspect-brk -r tsx index.ts",
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'No build step needed'",
+    "deploy": "echo 'Handled by Railway'",
     "test": "vitest"
   },
   "keywords": [],
