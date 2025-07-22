@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 200 1920 911"
+     preserveAspectRatio="xMidYMid"
+     width="1920"
+     height="911"
+     style="shape-rendering: auto; display: block; background: rgb(255, 255, 255);"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+        <linearGradient y2="0"
+                        y1="0"
+                        x2="1"
+                        x1="0"
+                        id="lg-vwk8kpvs8f7">
+            <stop offset="0"
+                  stop-color="#ff00ff" />
+            <stop offset="1"
+                  stop-color="#00ffff" />
+        </linearGradient>
+        <path opacity="0.4"
+              fill="url(#lg-vwk8kpvs8f7)"
+              d="">
+            <animate values="M0 0L0 571.41Q192 572.04 384 538.17T768 428.52T1152 450.33T1536 312.88T1920 337.84L1920 0Z;M0 0L0 529.47Q192 546.40 384 505.77T768 527.53T1152 340.79T1536 379.41T1920 250.35L1920 0Z;M0 0L0 665.57Q192 538.64 384 521.07T768 420.15T1152 367.33T1536 449.95T1920 318.27L1920 0Z;M0 0L0 571.41Q192 572.04 384 538.17T768 428.52T1152 450.33T1536 312.88T1920 337.84L1920 0Z"
+                     begin="0s"
+                     keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1"
+                     calcMode="spline"
+                     keyTimes="0;0.333;0.667;1"
+                     repeatCount="indefinite"
+                     dur="10s"
+                     attributeName="d" />
+        </path>
+        <path opacity="0.4"
+              fill="url(#lg-vwk8kpvs8f7)"
+              d="">
+            <animate values="M0 0L0 677.91Q192 595.12 384 568.35T768 455.09T1152 408.81T1536 395.42T1920 379.68L1920 0Z;M0 0L0 579.88Q192 593.62 384 551.57T768 542.90T1152 336.89T1536 286.59T1920 287.30L1920 0Z;M0 0L0 666.11Q192 508.49 384 480.97T768 426.69T1152 435.13T1536 418.98T1920 239.16L1920 0Z;M0 0L0 677.91Q192 595.12 384 568.35T768 455.09T1152 408.81T1536 395.42T1920 379.68L1920 0Z"
+                     begin="-2s"
+                     keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1"
+                     calcMode="spline"
+                     keyTimes="0;0.333;0.667;1"
+                     repeatCount="indefinite"
+                     dur="10s"
+                     attributeName="d" />
+        </path>
+        <path opacity="0.4"
+              fill="url(#lg-vwk8kpvs8f7)"
+              d="">
+            <animate values="M0 0L0 576.40Q192 501.14 384 480.10T768 536.31T1152 467.99T1536 386.38T1920 324.09L1920 0Z;M0 0L0 666.80Q192 616.57 384 571.74T768 554.21T1152 482.66T1536 292.08T1920 273.75L1920 0Z;M0 0L0 557.79Q192 505.11 384 481.06T768 471.33T1152 399.86T1536 410.06T1920 315.08L1920 0Z;M0 0L0 576.40Q192 501.14 384 480.10T768 536.31T1152 467.99T1536 386.38T1920 324.09L1920 0Z"
+                     begin="-4s"
+                     keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1"
+                     calcMode="spline"
+                     keyTimes="0;0.333;0.667;1"
+                     repeatCount="indefinite"
+                     dur="10s"
+                     attributeName="d" />
+        </path>
+        <path opacity="0.4"
+              fill="url(#lg-vwk8kpvs8f7)"
+              d="">
+            <animate values="M0 0L0 526.68Q192 551.59 384 521.58T768 403.59T1152 394.43T1536 362.58T1920 270.98L1920 0Z;M0 0L0 650.27Q192 571.19 384 553.26T768 504.78T1152 397.07T1536 416.50T1920 320.68L1920 0Z;M0 0L0 588.51Q192 621.97 384 599.37T768 397.62T1152 397.65T1536 380.65T1920 268.13L1920 0Z;M0 0L0 526.68Q192 551.59 384 521.58T768 403.59T1152 394.43T1536 362.58T1920 270.98L1920 0Z"
+                     begin="-6s"
+                     keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1"
+                     calcMode="spline"
+                     keyTimes="0;0.333;0.667;1"
+                     repeatCount="indefinite"
+                     dur="10s"
+                     attributeName="d" />
+        </path>
+        <path opacity="0.4"
+              fill="url(#lg-vwk8kpvs8f7)"
+              d="">
+            <animate values="M0 0L0 537.58Q192 519.99 384 486.65T768 417.59T1152 432.97T1536 327.55T1920 316.80L1920 0Z;M0 0L0 627.16Q192 628.20 384 586.98T768 406.26T1152 404.97T1536 357.47T1920 311.46L1920 0Z;M0 0L0 588.46Q192 541.85 384 515.18T768 493.55T1152 457.26T1536 357.60T1920 306.61L1920 0Z;M0 0L0 537.58Q192 519.99 384 486.65T768 417.59T1152 432.97T1536 327.55T1920 316.80L1920 0Z"
+                     begin="-8s"
+                     keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1"
+                     calcMode="spline"
+                     keyTimes="0;0.333;0.667;1"
+                     repeatCount="indefinite"
+                     dur="10s"
+                     attributeName="d" />
+        </path>
+        <g />
+    </g>
+</svg>
