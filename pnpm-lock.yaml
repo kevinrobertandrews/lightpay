@@ -10,9 +10,6 @@ importers:
 
   apps/backend:
     dependencies:
-      '@types/cors':
-        specifier: ^2.8.19
-        version: 2.8.19
       cors:
         specifier: ^2.8.5
         version: 2.8.5
@@ -26,15 +23,15 @@ importers:
         specifier: ^13.6.0
         version: 13.11.0
     devDependencies:
+      '@types/cors':
+        specifier: ^2.8.19
+        version: 2.8.19
       '@types/express':
         specifier: ^5.0.3
         version: 5.0.3
       '@types/node':
         specifier: ^24.0.15
         version: 24.1.0
-      '@types/stripe':
-        specifier: ^8.0.417
-        version: 8.0.417
       tsx:
         specifier: ^4.20.3
         version: 4.20.3
@@ -807,10 +804,6 @@ packages:
 
   '@types/stack-utils@2.0.3':
     resolution: {integrity: sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==}
-
-  '@types/stripe@8.0.417':
-    resolution: {integrity: sha512-PTuqskh9YKNENnOHGVJBm4sM0zE8B1jZw1JIskuGAPkMB+OH236QeN8scclhYGPA4nG6zTtPXgwpXdp+HPDTVw==}
-    deprecated: This is a stub types definition. stripe provides its own type definitions, so you do not need this installed.
 
   '@types/testing-library__jest-dom@5.14.9':
     resolution: {integrity: sha512-FSYhIjFlfOpGSRyVoMBMuS3ws5ehFQODymf3vlI7U1K8c7PHwWwFY7VREfmsuzHSOnoKs/9/Y983ayOs7eRzqw==}
@@ -2798,10 +2791,6 @@ snapshots:
       '@types/send': 0.17.5
 
   '@types/stack-utils@2.0.3': {}
-
-  '@types/stripe@8.0.417':
-    dependencies:
-      stripe: 13.11.0
 
   '@types/testing-library__jest-dom@5.14.9':
     dependencies:
